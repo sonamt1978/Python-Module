@@ -16,3 +16,4 @@ class Graph():
     def draw_scattered_graph(self,x_values,y_values):
         plt.scatter(x_values,y_values)
         plt.show()
+
